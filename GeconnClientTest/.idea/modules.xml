@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GeconnClientTest.iml" filepath="$PROJECT_DIR$/GeconnClientTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OnRoad.Integration/OnRoad.Integration.iml" filepath="$PROJECT_DIR$/../OnRoad.Integration/OnRoad.Integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OnRoad.Mobile/OnRoad.Integration/OnRoad.Integration.iml" filepath="$PROJECT_DIR$/../OnRoad.Mobile/OnRoad.Integration/OnRoad.Integration.iml" />
+    </modules>
+  </component>
+</project>
+
